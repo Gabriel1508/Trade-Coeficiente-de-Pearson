@@ -8,4 +8,5 @@ pip install binance
 pip install client
 pip install pandas_datareader
 
-Aviso: para rodar o código em python NÃO é necessãrio ter API's da binance.
+Aviso1: para rodar o código em python NÃO é necessãrio ter API's da binance.
+Aviso2: adicionei recentemente ao programa a cointegração, afim de obtermos uma correlação mais fiel.
