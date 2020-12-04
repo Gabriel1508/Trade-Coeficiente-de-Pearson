@@ -10,3 +10,5 @@ pip install pandas_datareader
 
 Aviso1: para rodar o código em python NÃO é necessãrio ter API's da binance.
 Aviso2: adicionei recentemente ao programa a cointegração, afim de obtermos uma correlação mais fiel.
+
+E-mail: safari_faniga@hotmail.com
